@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3c0dd190-fec9-430d-8658-c6039c78a66e/microsoft.web/sites/subscriptions/3c0dd190-fec9-430d-8658-c6039c78a66e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/avanext",
+    "appService.deploySubpath": "."
+}

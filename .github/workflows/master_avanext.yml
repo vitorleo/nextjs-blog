@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'avanext'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61F3E349D4E24C59BE5EB6FC2208EBEB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2DF31106FE4437DA69DC82CB049A118 }}
           package: .

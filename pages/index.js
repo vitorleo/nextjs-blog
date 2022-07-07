@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
         <p>Hello!</p>
         Read <Link href="/posts/first-post">
           <a>FirstPost</a>
-        </Link>
+        </Link>. This will return 404.
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
